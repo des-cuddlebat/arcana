@@ -1,8 +1,6 @@
 # Arcana
 
-## Motivation
-
-The goal of this mod is to shift focus towards exploration, looting progressively more difficult content, and making decisions.
+A complete rework for Minecraft enchantments. The goal of this mod is to shift focus towards exploration, looting progressively more difficult content, and making decisions.
 
 ## Main idea
 
